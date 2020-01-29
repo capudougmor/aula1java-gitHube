@@ -33,6 +33,7 @@ public class VagasHotel {
 				System.out.println(i+ ": " +vect[i]);
 			}
 		}
+		System.out.println("End program!");
 		
 		sc.close();
 	}
